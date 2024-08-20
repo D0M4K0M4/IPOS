@@ -31,3 +31,9 @@ Detects missing files or improperly named collisions for .dff, .txd, and .col pr
 ![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/4.png?raw=true)
 
 ![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/5.png?raw=true)
+
+![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/5.png?raw=true)
+
+![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/5.ipos_logo?raw=true)
+
+IPOS v0.1 Beta
