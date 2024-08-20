@@ -23,7 +23,11 @@ Detects missing files or improperly named collisions for .dff, .txd, and .col pr
 ### Screenshots
 
 ![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/1.png?raw=true)
+
 ![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/2.png?raw=true)
+
 ![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/3.png?raw=true)
+
 ![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/4.png?raw=true)
+
 ![My Image](https://github.com/D0M4K0M4/IPOS/blob/master/Screenshots/5.png?raw=true)
