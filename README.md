@@ -19,3 +19,5 @@ Supports FastMan92 Limit Adjuster.
 
 ### Project Resource Validation
 Detects missing files or improperly named collisions for .dff, .txd, and .col project resources.
+
+### Screenshoots
